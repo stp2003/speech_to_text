@@ -1,4 +1,4 @@
-name: speech_to_text
+name: speech_to_texty
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -37,6 +37,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   avatar_glow: ^2.0.2
+  speech_to_text: ^6.1.1
 
 dev_dependencies:
   flutter_test:

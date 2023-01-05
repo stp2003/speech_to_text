@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:speech_to_text/speech_screen.dart';
+import 'package:speech_to_texty/speech_screen.dart';
 
 void main() {
   SystemChrome.setSystemUIOverlayStyle(
